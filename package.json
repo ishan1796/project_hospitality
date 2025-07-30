@@ -1,0 +1,24 @@
+{
+  "name": "chai_part4",
+  "version": "1.0.0",
+  "description": "a backend design for learning industry level",
+  "type": "commonjs",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "javascript backend"
+  },
+  "license": "ISC",
+  "author": "ishan singh",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  }
+}
